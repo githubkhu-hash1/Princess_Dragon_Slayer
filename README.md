@@ -35,5 +35,17 @@ To run the game locally:
 
    Press the play button in Godot to start the game.
 
+
+### Screenshot of Game 
+
+![Alt text](https://github.com/githubkhu-hash1/Princess_Dragon_Slayer/blob/34d8dffa724d50adb0864c68f451b0e985034c97/Screenshot%202025-10-25%20190002.png)
+![Alt text](https://github.com/githubkhu-hash1/Princess_Dragon_Slayer/blob/34d8dffa724d50adb0864c68f451b0e985034c97/Screenshot%202025-10-25%20190032.png)
+![Alt text](https://github.com/githubkhu-hash1/Princess_Dragon_Slayer/blob/34d8dffa724d50adb0864c68f451b0e985034c97/Screenshot%202025-10-25%20190047.png)
+
+### ScreenShot of GameMap
+
+![Alt text](https://github.com/githubkhu-hash1/Princess_Dragon_Slayer/blob/34d8dffa724d50adb0864c68f451b0e985034c97/Screenshot%202025-10-25%20190159.png)
+
+
 ### Resources 
    Check out the game here : [YouTube Link](https://www.youtube.com/watch?v=LOhfqjmasi0&pp=ygUGZ29kb3Qg)
